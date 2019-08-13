@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-t = "https://twitter.com/kdxn"
+t = "https://twitter.com/"
 
 r = requests.get(t)
 
