@@ -1,5 +1,5 @@
-#freeze cheker(fzc)
-###installation
+# freeze cheker(fzc)
+### installation
 ```
     pip install requests
     pip install beautifulsoup4
